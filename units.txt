@@ -1,0 +1,3 @@
+# percent = 0.01
+discount_point = [discount_point] = dp
+dollars = [dollars] = usd
